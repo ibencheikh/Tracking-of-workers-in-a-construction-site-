@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[237]:
-
-
-import cv2
-import matplotlib.pyplot as plt
-import sort
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
